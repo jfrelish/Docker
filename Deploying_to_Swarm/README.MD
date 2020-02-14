@@ -5,8 +5,6 @@ Now that we’ve demonstrated that the individual components of our application 
 In order to validate that our containerized application works well on Swarm, we’ll use Docker Desktop’s built in Swarm environment right on our development machine to deploy our application, before handing it off to run on a full Swarm cluster in production. The Swarm environment created by Docker Desktop is fully featured, meaning it has all the Swarm features your app will enjoy on a real cluster, accessible from the convenience of your development machine.
 
 
-# Notes to self:
-
 
 ## Deploying: example used below are created with a file name bb-stack.yaml
 
