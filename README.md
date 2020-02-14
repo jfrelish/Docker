@@ -1,5 +1,8 @@
  # Docker
 
+
+Author: **Jeffrey Frelish** 
+
 [Orientation and setup](https://github.com/jfrelish/Docker/tree/Quickstart/Orientation_and_setup)
 
 
